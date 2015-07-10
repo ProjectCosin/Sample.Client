@@ -1,0 +1,1 @@
+这个REPO中所展示的是基于各平台的控制端示例，可通过这些控制端获取传感器EP的数据，或者向执行器EP发送执行命令。这些平台包括: Android, iOS, ASPNET Webform, Winform.

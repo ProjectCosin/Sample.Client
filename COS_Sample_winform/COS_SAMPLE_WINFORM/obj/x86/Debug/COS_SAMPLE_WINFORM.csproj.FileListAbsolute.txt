@@ -1,0 +1,27 @@
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.Form1.resources
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.Properties.Resources.resources
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\bin\Debug\COS_SAMPLE_WINFORM.exe
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\bin\Debug\COS_SAMPLE_WINFORM.pdb
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.exe
+D:\SharedFile\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.pdb
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.exe
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.pdb
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\bin\Debug\COS_SAMPLE_WINFORM.exe
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\bin\Debug\COS_SAMPLE_WINFORM.pdb
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.Form1.resources
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.Properties.Resources.resources
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM\COS_SAMPLE_WINFORM\COS_SAMPLE_WINFORM\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.exe
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.pdb
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\bin\Debug\COS_SAMPLE_WINFORM.exe
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\bin\Debug\COS_SAMPLE_WINFORM.pdb
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.Form1.resources
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\COS_SAMPLE_WINFORM.Properties.Resources.resources
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Downloads\COS_Sample_WINFORM (1)\COS_SAMPLE_WINFORM\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
